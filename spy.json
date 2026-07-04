@@ -1,4 +1,4 @@
 {
-  "api_url": "http://64.227.136.230:4000",
-  "ws_url": "ws://64.227.136.230:4001"
+  "api_url": "http://homepanel.web.id:7024",
+  "ws_url": "ws://homepanel.web.id:7024"
 }
